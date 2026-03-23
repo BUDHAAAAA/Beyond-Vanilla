@@ -228,7 +228,7 @@
 
 <p align="center">
   <a href="https://t.me/budovv_studio?direct">
-    <img src="assets/telegram_logo.png" width="120"><br>
+    <img src="assets/telegram-logo.png" width="120"><br>
     <b>Telegram-сообщество Budovv Studio</b>
   </a>
 </p>
