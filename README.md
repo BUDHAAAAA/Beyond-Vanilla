@@ -230,7 +230,7 @@
 
 <p align="left">
   <a href="[[ССЫЛКА_НА_TELEGRAM](https://t.me/budovv_studio)]">
-    <img src="assets/telegram-logo.png" alt="Telegram" width="56">
+    <img src="assets/telegram-logo.jpng" alt="Telegram" width="56">
   </a>
 </p>
 
