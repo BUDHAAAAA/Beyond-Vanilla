@@ -224,22 +224,21 @@
 
 ---
 
-## 📢 Telegram
+## 💬 Сообщество и поддержка
 
-Весь движ по сборке, обновления, фиксы, новости и обратная связь — здесь:
-
-<p align="left">
-  <a href="[[ССЫЛКА_НА_TELEGRAM](https://t.me/budovv_studio)]">
-    <img src="assets/telegram-logo.jpng" alt="Telegram" width="56">
+<p align="center">
+  <a href="https://t.me/budovv_studio?direct">
+    <img src="assets/telegram_logo.png" width="120"><br>
+    <b>Telegram-сообщество Budovv Studio</b>
   </a>
 </p>
 
-В Telegram можно:
+В Telegram вы можете:
+- задать вопрос по сборке
+- получить помощь
+- сообщить о баге
 - следить за обновлениями
-- узнать о новых версиях
-- написать о баге
-- задать вопрос по установке
-- поделиться впечатлениями
+- общаться с сообществом
 
 ---
 
