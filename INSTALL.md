@@ -61,9 +61,9 @@
 
 Скачайте архив сборки **ТОЛЬКО в формате `.zip`**:
 
-- [Mega]([https://mega.nz/file/4uZDiSYL#fl5Gk0wt85GFYlpHmrfWtnZv3bLo5qAgxMERgJRV4Fw])
-- [Google Drive]([https://drive.google.com/file/d/12O_B9npg9N8ilGexNCU0YVQibYNBtfpC/view?usp=sharing])
-- [Yandex Disk]([https://disk.yandex.by/d/sknSEskQVexDtA])
+- [Mega](https://mega.nz/file/4uZDiSYL#fl5Gk0wt85GFYlpHmrfWtnZv3bLo5qAgxMERgJRV4Fw)
+- [Google Drive](https://drive.google.com/file/d/12O_B9npg9N8ilGexNCU0YVQibYNBtfpC/view?usp=sharing)
+- [Yandex Disk](https://disk.yandex.by/d/sknSEskQVexDtA)
 
 > ⚠️ **ВАЖНО**  
 > Архив **НЕ НУЖНО распаковывать** вручную.
