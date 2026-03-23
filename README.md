@@ -19,13 +19,13 @@
 </p>
 
 <p align="center">
-  <a href="[ССЫЛКА_НА_MEGA]">
+  <a href="https://mega.nz/file/4uZDiSYL#fl5Gk0wt85GFYlpHmrfWtnZv3bLo5qAgxMERgJRV4Fw">
     <img alt="Download Mega" src="https://img.shields.io/badge/Download-MEGA-red?style=for-the-badge&logo=mega&logoColor=white">
   </a>
-  <a href="[ССЫЛКА_НА_GOOGLE_DRIVE]">
+  <a href="https://drive.google.com/file/d/12O_B9npg9N8ilGexNCU0YVQibYNBtfpC/view?usp=sharing">
     <img alt="Download Google Drive" src="https://img.shields.io/badge/Download-Google%20Drive-34A853?style=for-the-badge&logo=googledrive&logoColor=white">
   </a>
-  <a href="[ССЫЛКА_НА_YANDEX_DISK]">
+  <a href="https://disk.yandex.by/d/sknSEskQVexDtA">
     <img alt="Download Yandex Disk" src="https://img.shields.io/badge/Download-Yandex%20Disk-ff0000?style=for-the-badge&logo=yandex&logoColor=white">
   </a>
   <a href="[ССЫЛКА_НА_TELEGRAM]">
